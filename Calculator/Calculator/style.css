@@ -1,0 +1,16 @@
+﻿label {
+    color: darkblue;
+    background-color: whitesmoke;
+}
+button{
+    color:white;
+    background-color:darkslateblue;
+}
+.grid-button{
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-template-rows:1fr;
+    background-color:aqua;
+}
+
+
